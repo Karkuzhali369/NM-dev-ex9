@@ -26,7 +26,7 @@
         <sonar.projectKey>devops_demo</sonar.projectKey>
         <sonar.projectName>devops_demo</sonar.projectName>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.login>qp_6de5253be261c39ae8fac5e8a0c2314de9cd7c34</sonar.login>
+        <sonar.login>sqp_423e98e963650919f3103fca0d4011aa96f39c87</sonar.login>
     </properties>
 
     <dependencies>
